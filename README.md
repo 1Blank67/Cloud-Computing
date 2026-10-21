@@ -4,7 +4,7 @@ Een klein meldingensysteem voor storingen. Je meldt een storing via een
 formulier, je ziet de openstaande meldingen in een lijst, en je sluit ze af als
 ze opgelost zijn.
 
-Deze applicatie is het startpunt voor **Cloud computing (B-UCLL-MGN13A)**. Je
+Deze applicatie is het startpunt voor **Cloud computing (B-UCLL-MGN13A-Housam-Waridat)**. Je
 werkt er het hele semester mee. De applicatie zelf verandert bijna niet, wat
 verandert is hoe en waar ze draait.
 
